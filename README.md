@@ -30,9 +30,9 @@
   <p align="center">
     A place to grow and support this game
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/AMDinside1/BloodForce-Bug-Reports/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/AMDinside1/BloodForce-Bug-Reports/issues">Request Feature</a>
   </p>
 </div>
 
@@ -161,7 +161,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AMDinside1/BloodForce-Bug-Reports/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
