@@ -26,7 +26,6 @@
   <h3 align="center">BloodForce Bug Reports</h3>
 
   <p align="center">
-    A place to grow and support this game
     <br />
     <a href="https://github.com/AMDinside1/BloodForce-Bug-Reports/issues">Report Bug</a>
     ·
