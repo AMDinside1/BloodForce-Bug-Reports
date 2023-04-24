@@ -33,6 +33,15 @@
   </p>
 </div>
 
+<br />
+
+Please ensure that when submitting bug reports or feature requests, they:
+* Are concise
+* Are clear and easy to read
+* Have plenty of detail relevent to the issue of feature
+
+<br />
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/AMDinside1/BloodForce-Bug-Reports.svg?style=for-the-badge
