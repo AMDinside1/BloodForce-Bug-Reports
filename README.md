@@ -42,6 +42,8 @@ Please ensure that when submitting bug reports or feature requests, they:
 * Are not a duplicate of another issue
 * Contain all the information provided in the template
 
+Reports and requests that do not meet the above requirements may be closed or deleted.
+
 <br />
 
 <!-- MARKDOWN LINKS & IMAGES -->
