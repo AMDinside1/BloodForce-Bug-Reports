@@ -40,6 +40,7 @@ Please ensure that when submitting bug reports or feature requests, they:
 * Are clear and easy to read
 * Have plenty of detail relevent to the issue or feature
 * Are not a duplicate of another issue
+* Contain all the information provided in the template
 
 <br />
 
