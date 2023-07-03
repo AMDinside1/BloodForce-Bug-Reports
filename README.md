@@ -65,5 +65,5 @@ Reports and requests that do not meet the above requirements may be closed or de
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Link-shield]: https://img.shields.io/badge/Itch.io?style=plastic&logoColor=%23123456
+[Link-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Link-url]: https://interline-games.itch.io/bloodforce
