@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[Feature] - (Feature tilte)"
+title: "[Feature] - (Feature title)"
 labels: ''
 assignees: AMDinside1
 
